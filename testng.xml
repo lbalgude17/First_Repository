@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="NewProject">
+<listeners>
+<listener class-name="Utility.NewListeners"></listener>
+</listeners>
+  <test thread-count="10" name="Test">
+    <classes>
+      <class name="TestClasses.LoginTestCRM"/>
+       <class name="TestClasses.ContactsTest"/>
+        <class name="TestClasses.AlertLinkTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- NewProject -->

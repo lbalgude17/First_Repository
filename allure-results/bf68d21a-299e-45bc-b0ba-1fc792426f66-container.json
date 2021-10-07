@@ -1,0 +1,1 @@
+{"uuid":"bf68d21a-299e-45bc-b0ba-1fc792426f66","name":"TestClasses.LoginTestCRM","children":["8db32884-6735-47e9-9019-2655645f86a3"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1633516486903,"stop":1633516522763}],"afters":[],"links":[],"start":1633516486858,"stop":1633516538355}
