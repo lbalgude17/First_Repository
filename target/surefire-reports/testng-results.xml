@@ -8,78 +8,78 @@
       <![CDATA[DropdownTest]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-10-07T12:18:22Z" name="NewProject" finished-at="2021-10-07T12:18:59Z" duration-ms="36967">
+  <suite started-at="2021-10-21T07:01:29Z" name="NewProject" finished-at="2021-10-21T07:01:55Z" duration-ms="26550">
     <groups>
     </groups>
-    <test started-at="2021-10-07T12:18:22Z" name="Test" finished-at="2021-10-07T12:18:59Z" duration-ms="36967">
+    <test started-at="2021-10-21T07:01:29Z" name="Test" finished-at="2021-10-21T07:01:55Z" duration-ms="26550">
       <class name="TestClasses.ContactsTest">
-        <test-method signature="contactLinkTest()[pri:0, instance:TestClasses.ContactsTest@b4711e2]" started-at="2021-10-07T12:18:47Z" name="contactLinkTest" finished-at="2021-10-07T12:18:52Z" duration-ms="4234" status="PASS">
+        <test-method signature="contactLinkTest()[pri:0, instance:TestClasses.ContactsTest@b4711e2]" started-at="2021-10-21T07:01:37Z" name="contactLinkTest" finished-at="2021-10-21T07:01:46Z" duration-ms="9009" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- contactLinkTest -->
-        <test-method signature="nameTextboxTest()[pri:1, instance:TestClasses.ContactsTest@b4711e2]" started-at="2021-10-07T12:18:52Z" name="nameTextboxTest" finished-at="2021-10-07T12:18:52Z" duration-ms="632" status="PASS">
+        <test-method signature="nameTextboxTest()[pri:1, instance:TestClasses.ContactsTest@b4711e2]" started-at="2021-10-21T07:01:47Z" name="nameTextboxTest" finished-at="2021-10-21T07:01:47Z" duration-ms="434" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nameTextboxTest -->
-        <test-method signature="suffixDropdownTest()[pri:2, instance:TestClasses.ContactsTest@b4711e2]" started-at="2021-10-07T12:18:52Z" name="suffixDropdownTest" finished-at="2021-10-07T12:18:53Z" duration-ms="309" status="PASS">
+        <test-method signature="suffixDropdownTest()[pri:2, instance:TestClasses.ContactsTest@b4711e2]" started-at="2021-10-21T07:01:47Z" name="suffixDropdownTest" finished-at="2021-10-21T07:01:47Z" duration-ms="357" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- suffixDropdownTest -->
-        <test-method signature="fileUploadTest()[pri:3, instance:TestClasses.ContactsTest@b4711e2]" started-at="2021-10-07T12:18:53Z" name="fileUploadTest" finished-at="2021-10-07T12:18:53Z" duration-ms="146" status="PASS">
+        <test-method signature="fileUploadTest()[pri:3, instance:TestClasses.ContactsTest@b4711e2]" started-at="2021-10-21T07:01:47Z" name="fileUploadTest" finished-at="2021-10-21T07:01:48Z" duration-ms="154" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fileUploadTest -->
-        <test-method signature="selctTitleDropdownTest()[pri:4, instance:TestClasses.ContactsTest@b4711e2]" started-at="2021-10-07T12:18:53Z" name="selctTitleDropdownTest" finished-at="2021-10-07T12:18:53Z" duration-ms="187" status="PASS">
+        <test-method signature="selctTitleDropdownTest()[pri:4, instance:TestClasses.ContactsTest@b4711e2]" started-at="2021-10-21T07:01:48Z" name="selctTitleDropdownTest" finished-at="2021-10-21T07:01:48Z" duration-ms="208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selctTitleDropdownTest -->
       </class> <!-- TestClasses.ContactsTest -->
       <class name="TestClasses.LoginTestCRM">
-        <test-method is-config="true" signature="initBrowser()[pri:0, instance:TestClasses.LoginTestCRM@2796aeae]" started-at="2021-10-07T12:17:38Z" name="initBrowser" finished-at="2021-10-07T12:18:22Z" duration-ms="44290" status="PASS">
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:TestClasses.LoginTestCRM@2796aeae]" started-at="2021-10-21T07:01:01Z" name="initBrowser" finished-at="2021-10-21T07:01:29Z" duration-ms="28336" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowser -->
-        <test-method signature="LoginTest()[pri:0, instance:TestClasses.LoginTestCRM@2796aeae]" started-at="2021-10-07T12:18:22Z" name="LoginTest" finished-at="2021-10-07T12:18:47Z" duration-ms="24658" status="PASS">
+        <test-method signature="LoginTest()[pri:0, instance:TestClasses.LoginTestCRM@2796aeae]" started-at="2021-10-21T07:01:29Z" name="LoginTest" finished-at="2021-10-21T07:01:37Z" duration-ms="7940" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClasses.LoginTestCRM@2796aeae]" started-at="2021-10-07T12:18:59Z" name="tearDown" finished-at="2021-10-07T12:19:02Z" duration-ms="2789" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClasses.LoginTestCRM@2796aeae]" started-at="2021-10-21T07:01:56Z" name="tearDown" finished-at="2021-10-21T07:01:57Z" duration-ms="931" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- TestClasses.LoginTestCRM -->
       <class name="TestClasses.AlertLinkTest">
-        <test-method signature="redirectToAlertTest()[pri:6, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-07T12:18:53Z" name="redirectToAlertTest" finished-at="2021-10-07T12:18:56Z" duration-ms="2945" status="PASS">
+        <test-method signature="redirectToAlertTest()[pri:6, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-21T07:01:48Z" name="redirectToAlertTest" finished-at="2021-10-21T07:01:50Z" duration-ms="2128" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- redirectToAlertTest -->
-        <test-method signature="alertSelectTest()[pri:7, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-07T12:18:56Z" name="alertSelectTest" finished-at="2021-10-07T12:18:56Z" duration-ms="237" status="PASS">
+        <test-method signature="alertSelectTest()[pri:7, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-21T07:01:50Z" name="alertSelectTest" finished-at="2021-10-21T07:01:50Z" duration-ms="235" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Alert Dropdown Test]]>
             </line>
           </reporter-output>
         </test-method> <!-- alertSelectTest -->
-        <test-method signature="globalAlertSelectTest()[pri:8, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-07T12:18:56Z" name="globalAlertSelectTest" finished-at="2021-10-07T12:18:56Z" duration-ms="170" status="PASS">
+        <test-method signature="globalAlertSelectTest()[pri:8, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-21T07:01:50Z" name="globalAlertSelectTest" finished-at="2021-10-21T07:01:51Z" duration-ms="325" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- globalAlertSelectTest -->
-        <test-method signature="triggerAlertSelectTest()[pri:9, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-07T12:18:56Z" name="triggerAlertSelectTest" finished-at="2021-10-07T12:18:56Z" duration-ms="167" status="PASS">
+        <test-method signature="triggerAlertSelectTest()[pri:9, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-21T07:01:51Z" name="triggerAlertSelectTest" finished-at="2021-10-21T07:01:51Z" duration-ms="163" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[DropdownTest]]>
             </line>
           </reporter-output>
         </test-method> <!-- triggerAlertSelectTest -->
-        <test-method signature="emailAlertTest()[pri:10, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-07T12:18:56Z" name="emailAlertTest" finished-at="2021-10-07T12:18:57Z" duration-ms="172" status="PASS">
+        <test-method signature="emailAlertTest()[pri:10, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-21T07:01:51Z" name="emailAlertTest" finished-at="2021-10-21T07:01:51Z" duration-ms="200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- emailAlertTest -->
-        <test-method signature="radioButtonTest()[pri:11, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-07T12:18:57Z" name="radioButtonTest" finished-at="2021-10-07T12:18:57Z" duration-ms="191" status="PASS">
+        <test-method signature="radioButtonTest()[pri:11, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-21T07:01:51Z" name="radioButtonTest" finished-at="2021-10-21T07:01:51Z" duration-ms="141" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- radioButtonTest -->
-        <test-method signature="saveButtonTest()[pri:12, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-07T12:18:57Z" name="saveButtonTest" finished-at="2021-10-07T12:18:59Z" duration-ms="1959" status="FAIL">
+        <test-method signature="saveButtonTest()[pri:12, instance:TestClasses.AlertLinkTest@1fa1cab1]" started-at="2021-10-21T07:01:51Z" name="saveButtonTest" finished-at="2021-10-21T07:01:54Z" duration-ms="2479" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
